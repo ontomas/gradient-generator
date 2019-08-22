@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: 'Lexend Deca', sans-serif;
+    background: linear-gradient(to right, red, yellow);
+    color: #fff;
+}
+
+button {
+    padding: 0.25rem 0.5rem;
+}
